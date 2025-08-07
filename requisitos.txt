@@ -1,0 +1,11 @@
+# # Bibliotecas usadas na aplicação
+# Dados
+geopandas
+matplotlib
+pandas
+
+# Interface gráfica
+streamlit
+
+# Exportar app como ficheiro executável
+pyinstaller
